@@ -1,1 +1,1 @@
-start chrome https://wms.private.mabangerp.com/
+start chrome https://wms.private.mabangerp.com/index?lang=en_US
