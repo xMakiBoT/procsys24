@@ -1,0 +1,3 @@
+document.getElementById("userName").value = "20253018"
+document.getElementById("pwd").value = "SWB!3018"
+document.getElementsByClassName("btn btn-primary btn-lg btn-block")[0].click()
