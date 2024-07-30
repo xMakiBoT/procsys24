@@ -1,4 +1,4 @@
-var elements = ["button","select","aside","div","span","a","body","input","section","input","textarea"]
+var elements = ["button","ul","select","aside","div","span","a","body","input","section","input","textarea"]
 elements.forEach(element => {
     var elems = document.getElementsByTagName(element)
     for (var i = 0; i <= elems.length; i++){
