@@ -1,0 +1,8 @@
+var elements = ["button","select","aside","div","span","a","body","input","section","input","textarea"]
+elements.forEach(element => {
+    var elems = document.getElementsByTagName(element)
+    for (var i = 0; i <= elems.length; i++){
+        try{elems[i].style.background = "black"}catch(err){}
+        try{elems[i].style.color = "white"}catch(err){}
+    }
+})
