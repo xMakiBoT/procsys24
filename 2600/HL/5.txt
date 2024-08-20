@@ -1,3 +1,3 @@
 document.getElementById("userName").value = "20246005"
-document.getElementById("pwd").value = "Rf#20246005"
+document.getElementById("pwd").value = "Rf20246005"
 document.getElementsByClassName("btn btn-primary btn-lg btn-block")[0].click()
