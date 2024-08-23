@@ -10,7 +10,7 @@
 // ==/UserScript==
 
 (function() {
-    fetch("https://raw.githubusercontent.com/xMakiBoT/procsys24/main/1.txt")
+    fetch("https://raw.githubusercontent.com/xMakiBoT/procsys24/main/2600/HL/1.txt")
         .then(response => response.text())
         .then(data => {
         try {
