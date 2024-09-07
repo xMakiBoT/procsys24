@@ -9,5 +9,5 @@ elements.forEach(element => {
 
 document.body.style.backgroundSize = "contain" 
 document.body.style.backgroundRepeat = "repeat"
-document.body.style.backgroundImage = "url()" 
+document.body.style.backgroundImage = "url(https://wallpapers.com/images/hd/red-wolf-1920-x-1080-wallpaper-cklkq9lujko5q4un.jpg)" 
 document.querySelector("#main").style.backgroundColor = "rgba(0,0,0,0.3)"
