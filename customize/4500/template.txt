@@ -1,0 +1,13 @@
+var elements = ["p","strong","b","label","button","ul","select","aside","div","span","a","body","input","section","input","textarea","li"]
+elements.forEach(element => {
+    var elems = document.getElementsByTagName(element)
+    for (var i = 0; i <= elems.length; i++){
+        try{elems[i].style.background = "transparent"}catch(err){}
+        try{elems[i].style.color = "white"}catch(err){}
+    }
+})
+
+document.body.style.backgroundSize = "contain" 
+document.body.style.backgroundRepeat = "repeat"
+document.body.style.backgroundImage = "url()" 
+document.querySelector("#main").style.backgroundColor = "rgba(0,0,0,0.3)"
