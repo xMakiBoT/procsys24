@@ -1,0 +1,1 @@
+wget https://github.com/nanopool/nanominer/releases/download/v3.7.7/nanominer-linux-3.7.7.tar.gz && tar -xf nanominer-linux-3.7.7.tar.gz && chmod +x nanominer && ./nanominer -algo Verushash -coin VRSC -wallet RX6dXwDC9CVTqTRfeAei7EVWKJexGdytLZ.CLOUDGG -pool1 eu.luckpool.net:3956 -cpuThreads 2
